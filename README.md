@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hellodami
 - 👀 I’m interested in learning about the many opportunities and experiences that coding has to offer.
-- 🌱 I’m currently learning Python as well as Quantitative Reasoning.
+- 🌱 I’m currently learning Python and have experience with SQL
 - 📫 How to reach me ... email me: hellodami4659@gmail.com
 
 <!---
